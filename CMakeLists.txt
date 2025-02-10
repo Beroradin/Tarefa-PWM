@@ -57,6 +57,7 @@ target_include_directories(tarefa-pwm PRIVATE
 target_link_libraries(tarefa-pwm 
         hardware_timer
         hardware_pwm
+        hardware_clocks
         
         )
 
