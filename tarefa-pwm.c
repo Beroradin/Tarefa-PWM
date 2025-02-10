@@ -5,6 +5,7 @@
 
 // Constantes atualizadas
 #define SERVO_PIN 22
+#define PWM_FREQ 50
 #define CLK_DIV 100.0f     // Novo divisor de clock
 #define WRAP_VALUE 24999   // (125.000.000Hz / (100 * 50Hz)) - 1 = 24999
 
