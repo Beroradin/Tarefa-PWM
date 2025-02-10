@@ -44,7 +44,7 @@ Utiizou-se o Wokwi Simulator associado ao VScode para a simulação de um códig
 - Utilize o arquivo diagram.json para rodar a simulação
 
 
-## :camera: GIF mostrando o funcionamento do programa na placa BitDogLab
+## :camera: GIF mostrando o funcionamento do programa por meio do simulador integrado Wokwi
 <p align="center">
   <img src=".github/pwm.gif" alt="GIF" width="602px" />
 </p>
