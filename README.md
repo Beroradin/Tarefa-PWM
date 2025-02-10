@@ -33,7 +33,8 @@ Utiizou-se o Wokwi Simulator associado ao VScode para a simulação de um códig
 - É necessário a utilização da biblioteca "hardware/pwm" e sua eventual configuração no CMAKElist.txt;
 - O pulso modulado faz com que o servomotor opere em ângulos fixos;
 - O TOP (wrap) escolhido foi de 25000 e o divisor de clock (DIV) de 100, com isso foi possível obter uma frequência de 50 Hz requisitada;
-- É utilizado uma rotina de repetição para que o código mantenha-se ciclamente entre os ângulos de 0 a 180 graus.
+- É utilizado uma rotina de repetição para que o código mantenha-se ciclamente entre os ângulos de 0 a 180 graus;
+- Após a instalação do código na plataforma BitDogLab utilizando o PWM no GPIO 12, é possível notar a variação da intensidade luminosa por parte do LED azul, isso se dá devido a mudança da potência média no mesmo, que resulta da variação do *duty cicle* do PWM.
 
 ## 🧮 Simulação do projeto
 
