@@ -49,3 +49,9 @@ Utiizou-se o Wokwi Simulator associado ao VScode para a simulação de um códig
 <p align="center">
   <img src=".github/pwm.gif" alt="GIF" width="602px" />
 </p>
+
+## :arrow_forward: Vídeo no youtube mostrando o funcionamento do programa na placa BitDogLab
+
+<p align="center">
+    <a href="https://youtube.com/shorts/rAdaVVD5vjc">Clique aqui para acessar o vídeo</a>
+</p>
